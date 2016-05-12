@@ -837,8 +837,7 @@ overtime and create a function called `computepay` which
 takes two parameters (`hours` and `rate`).
 
 ~~~~
-Enter Hours: 45
-Enter Rate: 10
+computepay(45, 10)
 Pay: 475.0
 ~~~~
 
@@ -857,27 +856,27 @@ Score   Grade
     Program Execution:
 
 ~~~~
-Enter score: 0.95
+computegrade(0.95)
 A
 ~~~~
 
 ~~~~
-Enter score: perfect
+computegrade(perfect)
 Bad score
 ~~~~
 
 ~~~~
-Enter score: 10.0
+computegrade(10.0)
 Bad score
 ~~~~
 
 ~~~~
-Enter score: 0.75
+computegrade(0.75)
 C
 ~~~~
 
 ~~~~
-Enter score: 0.5
+computegrade(0.5)
 F
 ~~~~
 
