@@ -850,7 +850,7 @@ and the type (of the value of the expression).
 
 3.  `height/3`
 
-4.  `1 + 2 \* 5`
+4.  `1 + 2 * 5`
 
 Use the Python interpreter to check your answers.
 
