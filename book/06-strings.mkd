@@ -139,7 +139,7 @@ while index < len(fruit):
 ~~~~
 
 This loop traverses the string and displays each letter on a line by
-itself. The loop condition is `index \< len(fruit)`, so when
+itself. The loop condition is `index < len(fruit)`, so when
 `index` is equal to the length of the string, the condition
 is false, and the body of the loop is not executed. The last character
 accessed is the one with the index `len(fruit)-1`, which is
