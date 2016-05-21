@@ -302,6 +302,8 @@ word on every line of the input file.
 ../code3/romeo.txt
 \end{trinketfiles}
 
+We introduced a new shortcut, the `+=` operation: it is a way to simplify the iteration of a counter. `x += 1` means the same thing as `x = x + 1`.
+
 When we run the program, we see a raw dump of all of the counts in
 unsorted hash order. (the `romeo.txt` file is available at
 [www.pythonlearn.com/code3/romeo.txt](http://www.pythonlearn.com/code3/romeo.txt))
